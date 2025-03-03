@@ -306,3 +306,4 @@ Why is the Improved Prompt More Effective?
  Clear Expectations – It directs the AI to focus on transformation and real-world examples, ensuring a more useful and structured response.
 
 Concise Yet Detailed – The request is precise without being too long or confusing, making it easy for the AI to generate a relevant answer.
+Updated README
